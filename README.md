@@ -79,12 +79,14 @@ git clone https://github.com/YourUsername/LeetCode-Offline.git
 cd LeetCode-Offline
 
 **Step 2:** Start the local Python HTTP server. Run this command in the root directory:
-bash
-`python -m http.server 8000`
+```bash
+python -m http.server 8000
+```
 
 **Step 3:** Open your favorite web browser and navigate to:
-text
-`http://localhost:8000`
+```text
+http://localhost:8000
+```
 
 🎉 **You are all set! Happy coding.**
 
