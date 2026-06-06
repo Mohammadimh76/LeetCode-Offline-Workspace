@@ -35,16 +35,9 @@ Whether you are studying on a flight, commuting, or simply want a distraction-fr
 
 ## 🎥 Sneak Peek / Demo
 
-*Experience the seamless, fast, and responsive UI.*
+Watch a quick demonstration of the offline workspace:
 
-<div align="center">
-  <!-- GitHub supports rendering video tags directly -->
-  <video src="https://github.com/user-attachments/assets/YOUR-VIDEO-LINK-HERE.mp4" width="700" controls muted autoplay loop>
-    Your browser does not support the video tag.
-  </video>
-  <br/>
-  <i>Replace the `src` attribute with your actual video or GIF link.</i>
-</div>
+https://github.com/user-attachments/assets/fc00bed5-8666-49dd-9748-719abbd45989
 
 ---
 
