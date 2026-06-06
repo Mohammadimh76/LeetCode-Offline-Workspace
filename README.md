@@ -35,7 +35,7 @@ Whether you are studying on a flight, commuting, or simply want a distraction-fr
 
 ## 🎥 Sneak Peek / Demo
 
-Watch a quick demonstration of the offline workspace:
+Watch a quick demonstration of the LeetCode offline workspace:
 
 https://github.com/user-attachments/assets/fc00bed5-8666-49dd-9748-719abbd45989
 
