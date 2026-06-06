@@ -1,0 +1,24 @@
+Running the Local Server
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Start the HTTP Server
+
+Run the following command in your project directory to start a simple local web server:
+
+                                                           python -m http.server 8000
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Open the Application in Your Browser
+
+Once the server is running, open your browser and navigate to:
+
+                                                               http://localhost:8000
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The server will host the current directory, allowing you to access the files locally through your browser.
+
+
+

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎯 LeetCode Offline</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🎯 LeetCode Problems Collection</h1>
+            <p>Collection of 2900+ coding challenges</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <aside class="sidebar">
+            <div class="filters">
+                <input type="text" id="searchInput" placeholder="Search problems...">
+                
+                <select id="difficultyFilter">
+                    <option value="all">All Difficulties</option>
+                    <option value="Easy">Easy</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Hard">Hard</option>
+                </select>
+            </div>
+
+            <div id="problemsList" class="problems-list">
+                <div class="loading">Loading problems...</div>
+            </div>
+        </aside>
+
+        <section class="content">
+            <div id="problemDetail" class="problem-detail">
+                <div class="welcome">
+                    <h2>Welcome!</h2>
+                    <p>Select a problem from the list to view details.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
